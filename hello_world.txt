@@ -1,1 +1,2 @@
 Hello World! This is Rijaul from India. I am happy to start with The Odin Project.
+This is an update after changing git commit message editor
